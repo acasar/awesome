@@ -1,0 +1,15 @@
+{
+    "name": "blazorazem/awesome",
+    "description": "This is an awesome package.",
+    "keywords": ["awesome"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Blaz Orazem",
+            "email": "blaz@orazem.info"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    }
+}
