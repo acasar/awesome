@@ -1,5 +1,5 @@
 <?php
-namespace BlazOrazem\Awesome;
+namespace BlazOrazem;
 
 class Awesome {
 
